@@ -15,7 +15,7 @@ html {
     padding: 20px;
     padding-right: 300px;
     padding-left: 300px;
-    background: black;
+    background: #9E7C0C;
     height: 100px;
   }
   
@@ -29,7 +29,7 @@ html {
   a {
     font-size: 22px;
     text-decoration: none;
-    background: black;
+    background: #9E7C0C;
     border-radius: 15px;
   }
   
@@ -42,10 +42,10 @@ html {
   }
   
   a:hover {
-    border: 1px solid #0076b6;
+    border: 1px solid #241773;
     border-width: 8px;
     border-radius: 15px;
-    background-color: #0076b6;
+    background-color: #241773;
   }
   
   .navbar li:hover .dropdown > li {
@@ -84,7 +84,7 @@ html {
 
 .section1-container {
     display: flex;
-    background: #B0B7BC;
+    background: black;
     padding-top: 75px;
     padding-right: 400px;
     padding-left: 400px;
@@ -107,7 +107,7 @@ html {
 
 p.boldtext {
     font-size: 48px;
-    color: #1F2937;
+    color: #F9FAF8;
     font-weight: bolder;
     margin-bottom: 3px;
 }
@@ -123,7 +123,7 @@ p.boldtext {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: #0076B6;
+    background: #241773;
 }
 
 .top {
@@ -195,13 +195,13 @@ p.random {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: #B0B7BC;
+    background: black;
 }
 
 .quote {
     width: 825px;
     height: 160px;
-    color: #1F2937;
+    color: #F9FAF8;
     font-size: 36px;
     font-weight: lighter;
     font-style: italic;
@@ -210,7 +210,7 @@ p.random {
 .quotename {
     width: 825px;
     height: 40px;
-    color: #1F2937;
+    color: #F9FAF8;
     font-size: 36px;
     font-weight: bolder;
     text-align: right;
@@ -227,7 +227,7 @@ p.random {
     padding-bottom: 30px;
     justify-content: center;
     align-items: center;
-    background: #000000;
+    background: #9E7C0C;
     color:#F9FAF8;
 }
 
