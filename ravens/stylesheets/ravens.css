@@ -139,8 +139,16 @@ p.boldtext {
     justify-content: space-around;
 }
 
-.middle2 {
+.middle2, .middle3 {
     margin-top: 75px;
+}
+
+.middle3 {
+    display: flex;
+    width: 1500px;
+    height:250px;
+    justify-content: center; 
+    gap: 125px;
 }
 
 .bottom, .bottom2 {
@@ -154,10 +162,23 @@ p.boldtext {
     color: #F9FAF8;
 }
 
+.bottom3 {
+    display: flex;
+    width: 1500px;
+    height:100px;
+    margin-top: 5px;
+    padding-top: 5px;
+    justify-content: center;
+    text-align: center;
+    gap: 150px;
+    color: #F9FAF8;
+
+}
+
 .box {
     width: 250px;
     text-align: center;
-    border: 10px solid black;
+    border: 10px solid #9E7C0C;
     border-radius: 15px;
 }
 
